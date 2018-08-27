@@ -11,6 +11,6 @@
 ### Networkx
 
 <ul>
-	<li><img src="./results/1.png"></li>
-	<li><img src="./results/2.png"></li>
+	<li><img src="./results/1.png" width="300px"></li>
+	<li><img src="./results/2.png" width="300px"></li>
 </ul>
